@@ -6,6 +6,7 @@ let a = 80, b = 65, c;
 console.log("angle a is: ",a, "\n");
 console.log("angle b is: ",b, "\n");
 
+//i use parentheses to indicate which variables need to be calculated first according to PEMDAS
 c = 180 - (a + b);
 
 //placing the variables after their respective output to show result
