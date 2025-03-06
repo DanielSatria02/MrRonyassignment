@@ -11,7 +11,7 @@
 - input: Length = 5 , Width = 3
 - output: Area = 15
 ###### My work:
-- so for my work i used instead width being 10 while length is 20, which resulted in the area being 200.
+- so for my work i created my own width being 10 while length is 20, which resulted in the area being 200.
 #### Find the Diameter, Circumfrence, and Area of a circle:
 - input: Radius = 5
 - output: Diameter = 10 , Circumfrence = 31.4159 , Area = 78.539
