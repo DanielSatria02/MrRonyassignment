@@ -2,7 +2,7 @@
 console.log("Hello, this is a calculator to calculate all possible info about a circle with a given radius\n");
 //setting one variable with a value except a few because those variables will hold the result, also let will allow one to set something as a variable
 let radius = 5, area, circumference, diameter;
-//displayng the values of width and length
+//displayng the value of radius
 console.log("radius is: ",radius, "\n");
 
 //calculating Circumference, multiplying symbol is * alongside this math.pi is to import pi into the program
