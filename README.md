@@ -16,13 +16,19 @@
 - input: Radius = 5
 - output: Diameter = 10 , Circumfrence = 31.4159 , Area = 78.539
 ###### My work:
-- During my work i idecided instead of multiplying radius by itself, i instead use exponents. Instead of creating a variable that represents Pi, i imported a math related file to import Pi automatically.
+- During my work i decided instead of multiplying radius by itself, i instead use exponents. Instead of creating a variable that represents Pi, i imported a math related file to import Pi automatically.
 #### Find the angles of a triangle if two were given:
 - input: a = 80 , b = 65
 - output: 35
+###### My work:
+- during this work i used parenthese
 #### Get the difference in time between two interval of dates in the form of days: (DD/MM/YYYY)
 - input: date1 = 01-01-2025 , date2 = 03-01-2025
 - output: 2
+###### My work:
+- during this work i had to learn all sorts of new methods in relation to date, which i found that in Javascript one can only use (MM/DD/YYYY) with the methods used. also note 3600 seconds was two 60 seconds combined for simplification purposes.
 #### Only recognizes the initials within a string:
 - input: John Doe
 - output: JD
+###### My work:
+- i had to learn functions, then string, then subtracting those strings, then a bit of if without else, returning value. 
