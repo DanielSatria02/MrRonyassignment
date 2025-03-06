@@ -6,7 +6,7 @@
 
 ## Details on the first Assignment: (Due: 08 March, 2025)
 
-### All is to write 5 distinc codes, seen in this section:
+### All is to write 5 distinc codes, seen in this section: (Javascript)
 ##### Write a code to find the area of a rectangle:
 - input: Length = 5 , Width = 3
 - output: Area = 15
