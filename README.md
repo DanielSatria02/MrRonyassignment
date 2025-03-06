@@ -15,6 +15,8 @@
 #### Find the Diameter, Circumfrence, and Area of a circle:
 - input: Radius = 5
 - output: Diameter = 10 , Circumfrence = 31.4159 , Area = 78.539
+###### My work:
+- During my work i idecided instead of multiplying radius by itself, i instead use exponents. Instead of creating a variable that represents Pi, i imported a math related file to import Pi automatically.
 #### Find the angles of a triangle if two were given:
 - input: a = 80 , b = 65
 - output: 35
