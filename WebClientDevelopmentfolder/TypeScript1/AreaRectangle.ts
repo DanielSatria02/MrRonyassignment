@@ -5,4 +5,4 @@ var number
 number = number1 * number2;
 
 // the dollar symbol is for intorpolation purposes
-console.log(`The area of a triangle with length of ${number1} and width of ${number2} is: ${number}`);
+console.log(`The area of a Rectangle with length of ${number1} and width of ${number2} is: ${number}`);
