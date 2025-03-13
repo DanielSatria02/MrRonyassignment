@@ -9,6 +9,11 @@ function CircleCircumference(radius: number): number {
     return Math.PI * radius * 2;
 }
 
+function CircleCircumference(radius: number): number {
+
+    return radius * 2;
+}
+
 // using a constant to create a variable that will hold the number for calculations
 const number = 5;
 // the dollar symbol is for intorpolation purposes
