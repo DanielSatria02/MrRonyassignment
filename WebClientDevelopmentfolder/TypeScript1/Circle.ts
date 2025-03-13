@@ -9,7 +9,7 @@ function CircleCircumference(radius: number): number {
     return Math.PI * radius * 2;
 }
 
-function CircleCircumference(radius: number): number {
+function CircleDiameter(radius: number): number {
 
     return radius * 2;
 }
@@ -19,3 +19,4 @@ const number = 5;
 // the dollar symbol is for intorpolation purposes
 console.log(`The area of a circle with radius ${number} is: ${CircleArea(number).toFixed(2)}`);
 console.log(`The area of a circle with radius ${number} is: ${CircleCircumference(number).toFixed(2)}`);
+console.log(`The area of a circle with radius ${number} is: ${CircleDiameter(number).toFixed(2)}`);
