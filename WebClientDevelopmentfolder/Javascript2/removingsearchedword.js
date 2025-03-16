@@ -6,6 +6,7 @@ function remove_first_occurrence(str, searchstr)       {
 	return str.slice(0, index) + str.slice(index + searchstr.length);
 }
 
-let belremover = prompt("Enter a word that has bel: ");
+let remover = prompt("Enter a collection of word or words you want removed: ");
+let sentence = prompt("Enter a sentence: ");
 
-console.log(remove_first_occurrence(belremover, 'bel'));
+console.log(remove_first_occurrence(sentence, remover));
