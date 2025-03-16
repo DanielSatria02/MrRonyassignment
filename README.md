@@ -4,9 +4,11 @@
 
 <details><summary>Hello, during my time at Cakrawala this repository was the one i made for the assignments that Mr. Rony gave me.</summary><p>
 
+<details><summary>Hello, this was the first assignment.</summary><p>
+  
 ## Details on the first Assignment: (Due: 08 March, 2025)
 
-### All is to write 5 distinc codes, seen in this section: (Javascript)
+### All is to write 5 distinc codes, seen in this section: (Javascript and TypeScript)
 #### Write a code to find the area of a rectangle:
 - input: Length = 5 , Width = 3
 - output: Area = 15
@@ -31,4 +33,37 @@
 - input: John Doe
 - output: JD
 ###### My work:
-- i had to learn functions, then string, then subtracting those strings, then a bit of if without else, returning value. 
+- i had to learn functions, then string, then subtracting those strings, then a bit of if without else, returning value.
+</p>
+
+<details><summary>Hello, this is for my second assignment.</summary><p>
+
+## Details on second coding assignment: (Due 16 March 2025 12:00 PM)
+
+#### Write a code to convert fahrenheit to celcius:
+- input: 100
+- output: 212
+###### My Work:
+I had already learned basic arithmatics from preivious works, i used parentheses as well.
+#### Conversion of cm to km vice versa:
+- input = 1000000 cm
+- output = 1 km
+###### My Work
+uses basic arithmathics yet again.
+###### odd or even number:
+- input = 71
+- output = odd
+#### My Work:
+for this one i had to use a modulus arithmatic to calculate if inputted number is equal to zero, which will then le us know if it's even or not.
+user input has been added.
+###### Searched words deleted:
+- input = "remove: Bel"
+- input = "word is: Belladonna"
+- output = "ladonna"
+#### My work:
+from this the program had ro recognize a string and subtract it from a different string. i then made sure all of it is user input based
+###### Palindrome:
+- Input = madam
+- output = true
+#### my work:
+it uses bool, which then will also reverse the words, if both equals the same, then true, if not the false
