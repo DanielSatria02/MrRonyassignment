@@ -34,7 +34,7 @@
 - output: JD
 ###### My work:
 - i had to learn functions, then string, then subtracting those strings, then a bit of if without else, returning value.
-</p>
+</details>
 
 <details><summary>Hello, this is for my second assignment.</summary><p>
 
@@ -67,3 +67,5 @@ from this the program had ro recognize a string and subtract it from a different
 - output = true
 #### my work:
 it uses bool, which then will also reverse the words, if both equals the same, then true, if not the false
+</details>
+</details>
